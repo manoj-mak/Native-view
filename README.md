@@ -1,6 +1,6 @@
 # Native-view
  
-# executable file location: out/make.nativeview.exe(for windows)
+# executable file location: out/make/nativeview.exe(for windows)
 
 if you're on Linux or macOS , clone the repository and delete the out folder,
 
