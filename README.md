@@ -10,6 +10,6 @@ run the command ⬇
 
 electron will recognise the native Operating system and create an out folder with the respective executable file.
 
-# executable file location: out/make/nativeview.exe(for windows)
+# executable file location: out/make/nativeview(executable)
 
 
