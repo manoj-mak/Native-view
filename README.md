@@ -4,7 +4,7 @@
 
 if you're on Linux or macOS , clone the repository and delete the out folder,
 
-run the command 
+run the command ⬇
 
 # npm run make 
 
