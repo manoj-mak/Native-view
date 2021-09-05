@@ -4,7 +4,9 @@
 
 clone the repo,
 
-run the command ⬇
+run the commands ⬇
+
+# npm install
 
 # npm run make 
 
