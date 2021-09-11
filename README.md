@@ -1,4 +1,5 @@
-# Native-view
+# Native-view 
+a crossplatform desktop application for screen recording
  
 # How to get the executable file:
 
